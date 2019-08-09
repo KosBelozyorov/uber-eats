@@ -212,7 +212,7 @@ body {
     content: "";
     width: 16px;
     height: 16px;
-    background-image: url(https://kosbelozyorov.github.io/uber-eats-home-page/images/search.svg);
+    background-image: url(https://kosbelozyorov.github.io/uber-eats/images/search.svg);
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
@@ -274,7 +274,7 @@ body {
       content: "";
       width: 12px;
       height: 15px;
-      background-image: url(https://kosbelozyorov.github.io/uber-eats-home-page/images/location.svg);
+      background-image: url(https://kosbelozyorov.github.io/uber-eats/images/location.svg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: contain;
@@ -377,7 +377,7 @@ body {
       content: "";
       width: 16px;
       height: 16px;
-      background-image: url(https://kosbelozyorov.github.io/uber-eats-home-page/images/world.svg);
+      background-image: url(https://kosbelozyorov.github.io/uber-eats/images/world.svg);
       background-position: center;
       background-repeat: no-repeat;
       position: absolute;
