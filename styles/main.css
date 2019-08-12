@@ -228,7 +228,7 @@ body {
     text-indent: 24px; }
     .search__form-input:focus {
       outline-color: transparent;
-      border-bottom-color: #49a144; }
+      border-bottom-color: rgba(89, 189, 90, 0.6); }
     .search__form-input::-webkit-input-placeholder {
       color: #626262;
       opacity: 0.5; }
